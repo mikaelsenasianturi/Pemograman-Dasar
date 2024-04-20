@@ -1,0 +1,5 @@
+print("==================")
+print("Nama : Mikael Sena Sianturi")
+print("Kelas : 12.1A.14")
+print("Jurusan : Sistem informasi")
+print("=============")
