@@ -1,9 +1,9 @@
-# tugas tanggal 2024-04-20
+#Tugas
 print("PROGRAM HITUNG GAJIH KARYAWAN")
 nama = input("masukan nama :")
 jabatan = int(input("masukan jabatan :"))
 pendidikan = input("masukan pendidikan :").upper()
-jam_kerja = int(input("masukan jam Kerja :"))
+jam_kerja = int(input("masukan pukul Kerja :"))
 gaji_pokok = 300000
 tjn_jabatan = 0
 tjn_pendidikan = 0
